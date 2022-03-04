@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266163122359",
+    "project_id": "test-app-d2bef",
+    "storage_bucket": "test-app-d2bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266163122359:android:5b96f2a724d1b1a4021d32",
+        "android_client_info": {
+          "package_name": "com.devwarex.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266163122359-0ajbe9lqr2d0bolq3v8b6blha7o9jr37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86l45sPYJHWKTIXymN_RBAgEWPCIVi3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266163122359-0ajbe9lqr2d0bolq3v8b6blha7o9jr37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
