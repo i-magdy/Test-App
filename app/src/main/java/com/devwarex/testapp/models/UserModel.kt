@@ -12,6 +12,9 @@ class UserModel(){
     @ServerTimestamp
     val timestamp: Date? = null
 
+    constructor(name: String): this(){
+        this.name = name
+    }
     constructor(
         name: String,
         email: String,
